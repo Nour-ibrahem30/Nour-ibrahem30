@@ -1,75 +1,90 @@
 <h1 align="center">Hi 👋, I'm Nour Ibrahem</h1>
-<h3 align="center">A Frontend Developer passionate about creating responsive, user-friendly interfaces</h3>
+
+<p align="center">
+  <a href="https://github.com/Nour-ibrahem30"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&multiline=true&width=435&height=45&lines=Front-end+Developer;Passionate+about+Web+Design+%26+Code" alt="Typing SVG" /></a>
+</p>
+
+---
+
+## 🧰 My Favorite Tools and Technologies
+
+<div style="display: flex; align-items: flex-start; justify-content: center;">
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/html-icon.svg" width="65" height="65" alt="HTML" /><br>HTML
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/css-icon.svg" width="65" height="65" alt="CSS" /><br>CSS
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" alt="JavaScript" /><br>JavaScript
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="65" height="65" alt="TypeScript" /><br>TypeScript
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/vue-icon.svg" width="65" height="65" alt="Vue" /><br>Vue
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/bootstrap-icon.svg" width="65" height="65" alt="Bootstrap" /><br>Bootstrap
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/tailwind-icon.svg" width="65" height="65" alt="Tailwind" /><br>Tailwind
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/sass-icon.svg" width="65" height="65" alt="Sass" /><br>Sass
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" /><br>GitHub
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/vscode-icon.svg" width="65" height="65" alt="VS Code" /><br>VS Code
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" width="65" height="65" alt="Node.js" /><br>Node.js (Planned)
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" alt="React" /><br>React (Soon)
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/jest-icon.svg" width="65" height="65" alt="Jest" /><br>Jest
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 📈 My GitHub Stats
 
 <p align="center">
   <a href="https://github.com/Nour-ibrahem30">
-    <img src="https://komarev.com/ghpvc/?username=Nour-ibrahem30&label=Profile%20views&color=0e75b6&style=flat" alt="Nour-ibrahem30" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Nour-ibrahem30&show_icons=true&theme=radical&hide_border=true" />
+  </a>
+  <a href="https://github.com/Nour-ibrahem30">
+    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nour-ibrahem30&theme=radical&hide_border=true" />
   </a>
 </p>
 
 ---
 
-## 🧑‍💻 About Me
-
-- 🔭 I’m currently working on frontend projects using **HTML, CSS, and JavaScript**
-- 🌱 I’m currently learning **TypeScript** and **Vue.js**
-- 🎯 I aim to become a **Full Stack Developer** (Next: React.js and Node.js)
-- 📫 You can reach me at **nouribrahem207@gmail.com**
-- 💼 My Portfolio: [nour-ibrahem30.github.io/Portfolio](https://nour-ibrahem30.github.io/Portfolio)
-
----
-
-## 🛠️ My Favorite Tools & Technologies
-
-### Frontend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html" alt="HTML" height="40"/>
-  <img src="https://skillicons.dev/icons?i=css" alt="CSS" height="40"/>
-  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" height="40"/>
-  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" height="40"/>
-  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" height="40"/>
-  <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" height="40"/>
-  <img src="https://skillicons.dev/icons?i=sass" alt="Sass" height="40"/>
-  <img src="https://skillicons.dev/icons?i=jquery" alt="jQuery" height="40"/>
-  <img src="https://skillicons.dev/icons?i=react" alt="React.js" height="40"/>
-  <img src="https://skillicons.dev/icons?i=vue" alt="Vue.js" height="40"/>
-</p>
-
-### Tools & Platforms
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" height="40"/>
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" height="40"/>
-  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40"/>
-</p>
-
----
-
-## 📊 GitHub Stats
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nour-ibrahem30&show_icons=true&theme=tokyonight" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nour-ibrahem30&theme=tokyonight" height="180" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Nour-ibrahem30&theme=radical&no-frame=true&margin-w=4" />
 </p>
+
+---
+
+## 📌 Visitors
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nour-ibrahem30&layout=compact&theme=tokyonight" />
+  <img src="https://profile-counter.glitch.me/Nour-ibrahem30/count.svg" />
 </p>
 
 ---
 
-## 🚀 Projects
-
-Check out my pinned repositories and portfolio to see the projects I’ve worked on!
-
-> ✨ More projects coming soon!
-
----
-
-## 📫 Connect With Me
-
-<p>
-  <a href="https://www.linkedin.com/in/nour-ibrahem-499172346/"><img src="https://skillicons.dev/icons?i=linkedin" height="30"/></a>
-  <a href="mailto:nouribrahem207@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="30"/></a>
-</p>
-
----
+<img src="https://raw.githubusercontent.com/ishandutta2007/snk/output-svg-only/github-contribution-grid-snake.svg" alt="Contribution Snake" style="max-width: 100%;" />
