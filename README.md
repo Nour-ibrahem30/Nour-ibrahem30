@@ -43,10 +43,6 @@
       <br>React
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" />
-      <br>Vue
-    </td>
-    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Sass" />
       <br>Sass
     </td>
@@ -73,10 +69,10 @@
       <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
       <br>VS Code
     </td>
-    <td align="center" width="96">
+<!--     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" alt="MySQL" />
       <br>MySQL
-    </td>
+    </td> -->
   </tr>
 </table>
 </div>
