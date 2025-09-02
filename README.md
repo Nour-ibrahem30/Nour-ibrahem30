@@ -69,8 +69,4 @@
       <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
       <br><b>Git</b>
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
-      <br><b>GitHub</b>
-    </td>
   </tr>
