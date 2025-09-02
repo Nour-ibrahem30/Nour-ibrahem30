@@ -12,65 +12,61 @@
 ---
 
 # 💻 My Favorite Tools and Technologies
-<div style="display: flex; align-items: flex-start; align: center">
-<table align="center">
+<div align="center">
+<table>
   <tr>
-    <td align="center" width="96">
+    <td align="center" width="120" style="border: 1px solid #e4e4e4; border-radius: 10px; padding: 10px; background-color: #f9f9f9;">
       <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-      <br>HTML5
+      <br><b>HTML5</b>
     </td>
-    <td align="center" width="96">
+    <td align="center" width="120" style="border: 1px solid #e4e4e4; border-radius: 10px; padding: 10px; background-color: #f9f9f9;">
       <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
-      <br>CSS
+      <br><b>CSS</b>
     </td>
-    <td align="center" width="96">
+    <td align="center" width="120" style="border: 1px solid #e4e4e4; border-radius: 10px; padding: 10px; background-color: #f9f9f9;">
       <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" alt="JavaScript" />
-      <br>JavaScript
+      <br><b>JavaScript</b>
     </td>
-    <td align="center" width="96">
+    <td align="center" width="120" style="border: 1px solid #e4e4e4; border-radius: 10px; padding: 10px; background-color: #f9f9f9;">
       <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="65" height="65" alt="TypeScript" />
-      <br>TypeScript
+      <br><b>TypeScript</b>
     </td>
-    <td align="center" width="96">
+    <td align="center" width="120" style="border: 1px solid #e4e4e4; border-radius: 10px; padding: 10px; background-color: #f9f9f9;">
       <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="65" height="65" alt="C++" />
-      <br>C++
+      <br><b>C++</b>
     </td>
   </tr>
   <tr>
-    <td align="center" width="96">
+    <td align="center" width="120" style="border: 1px solid #e4e4e4; border-radius: 10px; padding: 10px; background-color: #f9f9f9;">
       <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" alt="React" />
-      <br>React
+      <br><b>React</b>
     </td>
-    <td align="center" width="96">
+    <td align="center" width="120" style="border: 1px solid #e4e4e4; border-radius: 10px; padding: 10px; background-color: #f9f9f9;">
       <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Sass" />
-      <br>Sass
+      <br><b>Sass</b>
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
-      <br>Tailwind
+    <td align="center" width="120" style="border: 1px solid #e4e4e4; border-radius: 10px; padding: 10px; background-color: #f9f9f9;">
+      <img src="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/refs/heads/master/.github/logo-dark.svg" width="65" height="65" alt="Tailwind CSS" />
+      <br><b>Tailwind</b>
     </td>
-    <td align="center" width="96">
+    <td align="center" width="120" style="border: 1px solid #e4e4e4; border-radius: 10px; padding: 10px; background-color: #f9f9f9;">
       <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
-      <br>Bootstrap
+      <br><b>Bootstrap</b>
     </td>
   </tr>
   <tr>
-    <td align="center" width="96">
+    <td align="center" width="120" style="border: 1px solid #e4e4e4; border-radius: 10px; padding: 10px; background-color: #f9f9f9;">
       <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br>Git
+      <br><b>Git</b>
     </td>
-    <td align="center" width="96">
+    <td align="center" width="120" style="border: 1px solid #e4e4e4; border-radius: 10px; padding: 10px; background-color: #f9f9f9;">
       <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
-      <br>GitHub
+      <br><b>GitHub</b>
     </td>
-    <td align="center" width="96">
+    <td align="center" width="120" style="border: 1px solid #e4e4e4; border-radius: 10px; padding: 10px; background-color: #f9f9f9;">
       <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
-      <br>VS Code
+      <br><b>VS Code</b>
     </td>
-<!--     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" alt="MySQL" />
-      <br>MySQL
-    </td> -->
   </tr>
 </table>
 </div>
@@ -100,9 +96,9 @@
 
 ## 📫 Contact Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/nour-ibrahem-499172346)
-- 👨‍💻 [GitHub](https://github.com/Nour-ibrahem30)
-- 📧 nouribrahem207@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/nour-ibrahem-499172346)  
+- 👨‍💻 [GitHub](https://github.com/Nour-ibrahem30)  
+- 📧 nouribrahem207@gmail.com  
 
 ---
 
