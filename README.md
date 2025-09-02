@@ -66,7 +66,6 @@
     <td align="center" width="120" style="border:1px solid #e4e4e4;border-radius:10px;padding:10px;background-color:#f9f9f9;">
      <tr>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br><b>Git</b>
-    </td>
+      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+      <br><b>GitHub</b>
   </tr>
