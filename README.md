@@ -45,10 +45,10 @@
       <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Sass" />
       <br><b>Sass</b>
     </td>
-    <td align="center" width="120" style="border: 1px solid #e4e4e4; border-radius: 10px; padding: 10px; background-color: #f9f9f9;">
-      <img src="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/refs/heads/master/.github/logo-dark.svg" width="65" height="65" alt="Tailwind CSS" />
-      <br><b>Tailwind</b>
-    </td>
+<td align="center" width="120" style="border: 1px solid #e4e4e4; border-radius: 10px; padding: 10px; background-color: #f9f9f9;">
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="65" height="65" alt="Tailwind CSS" />
+  <br><b>Tailwind</b>
+</td>
     <td align="center" width="120" style="border: 1px solid #e4e4e4; border-radius: 10px; padding: 10px; background-color: #f9f9f9;">
       <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
       <br><b>Bootstrap</b>
