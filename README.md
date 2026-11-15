@@ -74,7 +74,7 @@ I work across front-end development, explore back-end engineering, and use AI to
 
 <div align="center">
 
-<img src="./metrics.svg" alt="GitHub activity, statistics, and most-used languages" width="100%" />
+<img src="./github-metrics.svg" alt="GitHub activity, statistics, and most-used languages" width="100%" />
 
 </div>
 
