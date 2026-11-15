@@ -1,90 +1,112 @@
-<!-- Profile ReadMe Created for Nour Ibrahem -->
-<h1 align="center">Hi 👋, I'm Nour Ibrahem</h1>
-<h3 align="center">A passionate Frontend Web Developer from Egypt</h3>
+ 
+<h1 align="center">Hey, I'm Nour Ibrahem 👋</h1>
+<h3 align="center">Front-End Developer | Back-End Developer | AI Specialist</h3>
 
 <p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
+  <a href="https://nouribrahem.vercel.app">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/nour-ibrahem-499172346">LinkedIn</a> •
+  <a href="mailto:nouribrahem207@gmail.com">Email</a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
-- 🌱 Currently learning **Vue.js & Node.js** to expand my full-stack skills.  
-- 🎯 Focused on building **responsive, modern, and user-friendly web apps**.  
-- 🚀 Passionate about **UI/UX** and clean code.  
-- 💡 Love solving problems & experimenting with new technologies.  
+## About Me
+
+I'm a Developer from Egypt interested in building modern web applications, scalable software solutions, and AI-powered experiences.
+
+My work focuses on combining clean front-end architecture, back-end development, and creative technologies to build practical digital products.
+
+- 💻 Developing modern web applications with React, TypeScript, and Next.js.
+- ⚙️ Exploring Back-End Engineering, REST APIs, databases, and system architecture.
+- 🤖 Exploring AI tools, models, and AI-powered development workflows.
+- 🌌 Interested in creative development using Three.js and GSAP.
+- 🚀 Always experimenting, learning, and building.
 
 ---
 
-## 💻 My Favorite Tools and Technologies
-<div align="center">
+## Tech Stack
 
-### 🌐 Frontend
-<table>
-  <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=html" width="48" alt="HTML5"/><br>HTML5</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=css" width="48" alt="CSS"/><br>CSS</td>
-    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" alt="JavaScript"/><br>JavaScript</td>
-    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/ts-icon.svg" width="65" alt="TypeScript"/><br>TypeScript</td>
-    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" alt="React"/><br>React</td>
-  </tr>
-  <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=sass" width="48" alt="Sass"/><br>Sass</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=tailwind" width="48" alt="Tailwind"/><br>Tailwind</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=bootstrap" width="48" alt="Bootstrap"/><br>Bootstrap</td>
-    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="65" alt="C++"/><br>C++</td>
-  </tr>
-</table>
+### Front-End Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind,sass,bootstrap" />
+</p>
 
-### ⚙️ Tools
-<table>
-  <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="48" alt="Git"/><br>Git</td>
-    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" alt="GitHub"/><br>GitHub</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vscode" width="48" alt="VS Code"/><br>VS Code</td>
-  </tr>
-</table>
-</div>
+### Back-End & Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma,mongodb,cloudflare" />
+</p>
+
+### Creative Development
+<p>
+  <img src="https://skillicons.dev/icons?i=threejs,gsap,wordpress" />
+</p>
+
+### Tools & Workflow
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel,linux" />
+</p>
+
+### AI & Development
+- AI-Assisted Development
+- AI Tools & Model Integration
+- Prompt Engineering
+- AI-Powered Workflows
 
 ---
 
-## 📂 Featured Projects
+## Featured Projects
+
+### 01. RAWAQA — E-commerce Platform
+
+A premium bean bag e-commerce platform focused on performance, security, and a reliable shopping experience.
+
+- Full-stack development.
+- REST API architecture.
+- PostgreSQL & Prisma.
+- Authentication and authorization.
+- E-commerce workflows and payment integration.
+
+**Tech:** Next.js, TypeScript, Prisma, PostgreSQL, Cloudflare Workers.
+
+[View Repository](https://github.com/Nour-ibrahem30/RAWAQA)
+
+### 02. The Mind Space — 3D Portfolio
+
+An immersive portfolio experience built around a neural and cosmic concept, combining interactive 3D environments with creative storytelling.
+
+**Tech:** React, Three.js, GSAP, JavaScript.
+
+[Live Portfolio](https://nouribrahem.vercel.app) • [View Repository](https://github.com/Nour-ibrahem30/Portflio-3d)
+
+---
+
+## GitHub Statistics
+
 <p align="center">
-  <a href="https://github.com/Nour-ibrahem30/Movies-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nour-ibrahem30&repo=Movies-App&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Nour-ibrahem30&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nour-ibrahem30&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="65%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nour-ibrahem30&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## Let's Connect
+
+<p align="center">
+  <a href="https://github.com/Nour-ibrahem30">
+    <img src="https://skillicons.dev/icons?i=github" width="40" />
   </a>
-  <a href="https://github.com/Nour-ibrahem30/VivaDecor">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nour-ibrahem30&repo=VivaDecor&theme=tokyonight" />
+  <a href="https://www.linkedin.com/in/nour-ibrahem-499172346">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
+  </a>
+  <a href="mailto:nouribrahem207@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="40" />
   </a>
 </p>
 
----
-
-## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nour-ibrahem30&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nour-ibrahem30&theme=tokyonight&hide_border=true" width="48%"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nour-ibrahem30&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
-
----
-
-## 📫 Connect With Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/nour-ibrahem-499172346"><img src="https://skillicons.dev/icons?i=linkedin" width="48" alt="LinkedIn"/></a>
-  <a href="https://github.com/Nour-ibrahem30"><img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub"/></a>
-  <a href="mailto:nouribrahem207@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="48" alt="Gmail"/></a>
-</p>
-
----
-
-## 🐍 Contribution Snake Animation
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ishandutta2007/snk/output-svg-only/github-contribution-grid-snake.svg" alt="Contribution Snake Animation"/>
+  <i>"Building things, exploring ideas, and turning curiosity into reality."</i>
 </p>
